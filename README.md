@@ -15,57 +15,61 @@
 
 * [Edge computing](#Edge-computing)
 
-* Kaggle
+* [Kaggle](#Kaggle)
 
-* コールセンター
+* [コールセンター](#コールセンター)
 
-* 建設業界
+* [建設業界](#建設業界)
 
-* 口腔衛生
+* [口腔衛生](#口腔衛生)
 
-* 筋トレ
+* [筋トレ](#筋トレ)
 
-* ビリヤード
+* [ビリヤード](#ビリヤード)
 
-* 心理学
+* [心理学](#心理学)
 
-* license
+* [license](#license)
 
-* 論文読み
+* [論文読み](#論文読み)
 
-* 画像の特徴量
+* [画像の特徴量](#画像の特徴量)
 
-* Amazon アソシエイト・プログラム
+* [Amazon アソシエイト・プログラム](#Amazon-アソシエイト・プログラム)
 
-* GitHub  
+* [GitHub](#GitHub)
 
-* Docker
+* [Docker](#Docker)
 
-* AWS
+* [AWS](#AWS)
 
-* Hadoop
+* [Hadoop](#Hadoop)
 
-* Bigquery
+* [Bigquery](#Bigquery)
 
-* Spark
+* [Spark](#Spark)
 
-* Cuda
+* [Cuda](#Cuda)
 
-* コマンドラインツール
+* [コマンドラインツール](#コマンドラインツール)
 
-* EDA
+* [EDA](#EDA)
 
-* Markdown記法
+* [Markdown記法](#Markdown記法)
 
-* HTML･CSS
+* [HTML･CSS](#HTML･CSS)
 
-* SNS
+* [SNS](#SNS)
 
-* 英語
+* [英語](#英語)
 
-* numpyでfor文を使わない書き方
+* [numpyでfor文を使わない書き方](#numpyでfor文を使わない書き方)
 
-* Macのショートカット、便利な設定
+* [Macのショートカット、便利な設定](#Macのショートカット、便利な設定)
+
+* [LT](#LT)
+
+* [マインドマップ](#マインドマップ)
 
 
 ### Edge computing
@@ -82,11 +86,11 @@ https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-�
 
 ### Kaggle
 
-* *参加中のコンペ*
+* *参加中のコンペ*  
      * 
      * 
  
-* 終了したコンペ
+* 終了したコンペ  
      * 
 
 ### コールセンター
@@ -239,4 +243,18 @@ SNSを活用し、情報発信、交流できるようになりたい。
 
 ### numpyでfor文を使わない書き方
 早めに身につける。
+
+
+### Macのショートカット、便利な設定)
+
+
+
+### LT
+
+
+
+### マインドマップ
+
+
+
 
