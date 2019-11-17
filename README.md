@@ -225,9 +225,11 @@ EDAの定石や便利なライブラリについて、調べてまとめる。
 
 
 ### Markdown記法
-
-
-
+リンクについて、リンクのタイトルを自動で取得できないのか？  
+[Markdown記法一覧](https://qiita.com/oreo/items/82183bfbaac69971917f)  
+[\[Qiita Markdown記法\]ページ内リンク・注釈・折りたたみ等](https://qiita.com/aymikmts/items/71e550bf2c10f36883e9)  
+  
+  
 ### HTML･CSS
 
 
