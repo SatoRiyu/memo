@@ -13,7 +13,7 @@
   
 ## 興味があることリスト
 
-* Edge computing
+* [Edge computing](#Edge-computing)
 
 * Kaggle
 
@@ -65,12 +65,14 @@
 
 * numpyでfor文を使わない書き方
 
+* Macのショートカット、便利な設定
+
 
 ### Edge computing
 掻い摘んだ内容をまとめたい。
 
 
-2019.02.28 データの時間
+2019.02.28 データの時間  
 https://data.wingarc.com/edge-computing-17708
 
 
@@ -81,29 +83,26 @@ https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-�
 ### Kaggle
 
 * *参加中のコンペ*
- * 
- * 
+     * 
+     * 
  
 * 終了したコンペ
- * 
+     * 
 
 ### コールセンター
-ドメイン知識まとめノート
-https://github.com/SatoRiyu/Domain-Knowledge/blob/master/コールセンター業界について.ipynb
+[ドメイン知識まとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/コールセンター業界について.ipynb)
 
 
 ### 建設業界
-ドメイン知識まとめノート
-https://github.com/SatoRiyu/Domain-Knowledge/blob/master/建設業界について.ipynb
+[ドメイン知識まとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/建設業界について.ipynb)
 
 
 ### 口腔衛生
-ドメイン知識まとめノート
-https://github.com/SatoRiyu/Domain-Knowledge/blob/master/口腔衛生について.ipynb
+[ドメイン知識まとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/口腔衛生について.ipynb)
 
 
 ### 筋トレ
-
+筋トレフォームチェックアプリの開発について、
 
 
 ### ビリヤード
