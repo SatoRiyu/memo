@@ -76,12 +76,11 @@
 掻い摘んだ内容をまとめたい。
 
 
-2019.02.28 データの時間  
-https://data.wingarc.com/edge-computing-17708
-
+2019.02.28の記事 [データの時間](https://data.wingarc.com/edge-computing-17708)  
+  
 
 IoTの教科書  
-https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-伊本-貴士/dp/4822259471/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
+[Amazonリンク](https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-伊本-貴士/dp/4822259471/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 ### Kaggle
@@ -91,7 +90,7 @@ https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-�
     * [2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019)  
  
 * 終了したコンペ  
-        * [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection)  
+    * [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection)  
 
 ### コールセンター
 [ドメイン知識まとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/コールセンター業界について.ipynb)
