@@ -87,11 +87,11 @@ https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-�
 ### Kaggle
 
 * *参加中のコンペ*  
-     * 
-     * 
+    * 
+    * 
  
 * 終了したコンペ  
-     * 
+        * 
 
 ### コールセンター
 [ドメイン知識まとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/コールセンター業界について.ipynb)
