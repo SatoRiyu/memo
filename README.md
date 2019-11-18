@@ -76,12 +76,36 @@
 掻い摘んだ内容をまとめたい。
 
 
-2019.02.28の記事 [データの時間](https://data.wingarc.com/edge-computing-17708)  
+* **直近**
+    * 気になる！対象者外の可能性があるので、問い合わせてみる。　[IoT導入支援セミナー in 横浜](https://local-iot-lab.ipa.go.jp/article/yokohama-city-iot-1808091147.html)  
   
-
+  
+2019.02.28の記事 [データの時間](https://data.wingarc.com/edge-computing-17708)  
+   
+  
 IoTの教科書  
-[Amazonリンク](https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-伊本-貴士/dp/4822259471/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+[Amazonリンク](https://www.amazon.co.jp/IoTの全てを網羅した決定版-IoTの教科書-伊本-貴士/dp/4822259471/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)  
+  
+#### 検定（モチベーションのために）  
+* [IoT検定（プロメトリック）](http://it.prometric-jp.com/testlist/iot/index.html)  
+* [IoT検定制度委員会](http://www.iotcert.org)  
+* [【[独学\]で合格】IoT検定 レベル1 プロフェッショナル・コーディネータ](https://qiita.com/jinsights/items/4bc9446fecc47a59a621)  
+  
+合格すると参加できるミートアップもあるらしい  
+* [IoT検定プロフェッショナル・コミュニティmeetup #1](https://techplay.jp/event/734799)  
 
+
+
+#### 総務省、IPA等の動向  
+[総務省｜ICT利活用の促進｜高度ICT人材の育成](http://www.soumu.go.jp/main_sosiki/joho_tsusin/joho_jinzai/index.html)
+[高度ICT人材育成に関する研究会 報告書（案）の概要 - IPA](https://www.ipa.go.jp/files/000024056.pdf)
+
+
+#### 参加イベント  
+* 予定  
+    * [ET/IoT Technology 2019](http://www.jasa.or.jp/expo/)  
+    * [AI/IoTシステムのための安全性シンポジウム](https://www.ipa.go.jp/ikc/events/20191126.html)  
+* 終了  
 
 ### Kaggle
 
@@ -254,8 +278,8 @@ SNSを活用し、情報発信、交流できるようになりたい。
 
 
 
-### マインドマップ
-
-
-
+### マインドマップ  
+企業説明会の時、S先輩がマインドマップでメモ取っていた。さすが！  
+マネしてみる。  
+  
 
