@@ -89,7 +89,7 @@ IoTの教科書
 #### 検定（モチベーションのために）  
 * [IoT検定（プロメトリック）](http://it.prometric-jp.com/testlist/iot/index.html)  
 * [IoT検定制度委員会](http://www.iotcert.org)  
-* [【[独学\]で合格】IoT検定 レベル1 プロフェッショナル・コーディネータ](https://qiita.com/jinsights/items/4bc9446fecc47a59a621)  
+* [\【[独学\]で合格】IoT検定 レベル1 プロフェッショナル・コーディネータ](https://qiita.com/jinsights/items/4bc9446fecc47a59a621)  
   
 合格すると参加できるミートアップもあるらしい  
 * [IoT検定プロフェッショナル・コミュニティmeetup #1](https://techplay.jp/event/734799)  
