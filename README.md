@@ -246,6 +246,7 @@ LTのカンペを用意、練習をする。
 ### EDA
 EDAの定石や便利なライブラリについて、調べてまとめる。
 
+[EDAについてまとめノート](https://github.com/SatoRiyu/Domain-Knowledge/blob/master/EDAについて.ipynb)
 
 ### Markdown記法
 リンクについて、リンクのタイトルを自動で取得できないのか？  
